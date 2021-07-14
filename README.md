@@ -1,9 +1,9 @@
 # imp-fuzzer
 Mass endpoint fuzzing tool
 
-
-root in /home/harith/WebApps/que 🐍 v2.7.18
-❯ ./imp.py -h                                                                                                                                                                                         root@kali
+```
+root in /opt/imp-fuzzer> 🐍 v0.1
+❯ ./imp-fuzzer -h
 usage: imp-fuzzer.py [-h] -uL  -w  [-di] [-go] [-ff] [-e] [-xs] [-t] [-ua]
 
 -------------------------------------------------------------
@@ -37,3 +37,4 @@ usage: imp-fuzzer.py [-h] -uL  -w  [-di] [-go] [-ff] [-e] [-xs] [-t] [-ua]
   -ff, --ffuf           Use ffuf
 
 ---------------- Script from h4rithd.com ----------------
+```
