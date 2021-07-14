@@ -1,4 +1,4 @@
-# imp-fuzzer
+# imp-fuzzer.py
 Mass endpoint fuzzing tool
 
 ```
