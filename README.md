@@ -2,9 +2,9 @@
 Mass endpoint fuzzing tool
 
 ```
-root in /opt/imp-fuzzer> 🐍 v0.1
-❯ ./imp-fuzzer -h
-usage: imp-fuzzer.py [-h] -uL {URL List} -w {Wordlist}
+┌──(root💀h4rithd)-[/opt/imp-fuzzer] 🐍 v0.1
+└─# ./imp-fuzzer -h
+usage: imp-fuzzer.py -uL [URLList.txt] -w [Wordlist.txt]
 
 -------------------------------------------------------------
 ---------------| Mass endpoint fuzzing tool |----------------
